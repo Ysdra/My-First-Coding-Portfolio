@@ -12,6 +12,10 @@ The main guts of my portfolio website can be seen here and showcases the decisio
 
 ## Screenshots 
 
+![Top of the Website] (https://github.com/Ysdra/My-First-Coding-Portfolio/blob/main/Webiste%20Screenshot%201.PNG)
+![Middle Section of the Website] (https://github.com/Ysdra/My-First-Coding-Portfolio/blob/main/Webiste%20Screenshot%202.PNG)
+![Bottom Section of the Website] (https://github.com/Ysdra/My-First-Coding-Portfolio/blob/main/Website%20Screenshot%203.PNG)
+
 ## Deployed Website Link
 https://ysdra.github.io/My-First-Coding-Portfolio/
 
