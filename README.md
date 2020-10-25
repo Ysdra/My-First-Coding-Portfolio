@@ -2,7 +2,7 @@
 My coding portfolio website
 
 ## Description
-This is my first coding portfolio website that will host all of my completed projects in the future. So far, there is no functional navigation since I need to add the Javascript later to enable it. 
+This is my first portfolio website that will host all of my completed projects in the future. So far, there is no functional navigation since I need to add the Javascript later to enable it. 
 
 ## HTML Methodology
 My portfolio website is subdivided into three distinct categories: About Me, Projects, and Contact Me. There is still room in the original html source code to inject Javascript at a later date to add more functionality for my portfolio website. 
