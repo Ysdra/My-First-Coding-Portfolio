@@ -1,4 +1,4 @@
-# My-First-Coding-Portfolio
+# Coding-Portfolio
 My coding portfolio website
 
 ## Description
